@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Contacts/Python/password"
+		},
+		{
+			"path": "../../../Contacts/Python/text_recognition"
+		}
+	],
+	"settings": {}
+}
